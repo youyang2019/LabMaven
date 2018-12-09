@@ -1,0 +1,12 @@
+{
+	  "common": {
+		    "checkInterval": 2
+	  },
+	  "mysql": {
+        "host": "localhost",
+		    "user": "root",
+		    "password": "1qaz!QAZ",
+		    "db": "ailab",
+        "port": 3306
+	  }
+}
